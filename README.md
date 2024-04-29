@@ -15,3 +15,7 @@ In cases of insufficient dynamic memory, the `brk()` system call is invoked to e
 The repository also includes an implementation of the `free()` function. Apart from releasing memory blocks and performing error checks, this function intelligently combines adjacent free blocks to mitigate fragmentation issues.
 
 This memory management system aims to provide efficient and effective memory allocation and deallocation within the NOVA operating system.
+
+<p align="center">
+  <img src="https://ltdfoto.ru/images/2024/04/29/How-do-malloc-free-work-vishal-chovatiya.png">
+</p>
