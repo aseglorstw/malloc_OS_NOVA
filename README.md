@@ -17,5 +17,5 @@ The repository also includes an implementation of the `free()` function. Apart f
 This memory management system aims to provide efficient and effective memory allocation and deallocation within the NOVA operating system.
 
 <p align="center">
-  <img src="https://www.vishalchovatiya.com/wp-content/uploads/How-do-malloc-free-work-vishal-chovatiya.png">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYzSvDO_onzcCa77y5P9u4Gq67gc2dIpSUbv2ljAfBj1w4icSJnOw9QGuO6s1H4TEfJRNs-_mzgVh_pTO5hEuI9xALBSg0L0QyDOAJlyA9FPCzSCeRrMXIGD-ejTn5uQDa2OMBLSeHyeI/s1600/Capture.JPG">
 </p>
